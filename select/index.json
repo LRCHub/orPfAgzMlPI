@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "最強のラブソング",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-16T13:44:31.958190Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最強のラブソング",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_最強のラブソング_≠ME.txt"
+    }
+  ]
+}
